@@ -1,0 +1,865 @@
+[
+    {
+      "name":  "Gipfel",
+      "category": "Backware",
+      "type": "Carbs",
+      "kh100": 40
+    },
+    {
+      "name":  "Knäckenbrot",
+      "category": "Backware",
+      "type": "Carbs",
+      "kh100": 66.5
+    },
+    {
+      "name":  "Mutschli",
+      "category": "Backware",
+      "type": "Carbs",
+      "kh100": 48
+    },
+    {
+      "name":  "Ruchbrot",
+      "category": "Backware",
+      "type": "Carbs",
+      "kh100": 46
+    },
+    {
+      "name":  "Grahambrot",
+      "category": "Backware",
+      "type": "Carbs",
+      "kh100": 44
+    },
+    {
+      "name":  "Grahambrötli",
+      "category": "Backware",
+      "type": "Carbs",
+      "kh100": 39
+    }
+  ,
+    {
+      "name":  "Weggli",
+      "category": "Backware",
+      "type": "Carbs",
+      "kh100": 50
+    }
+  ,
+    {
+      "name":  "Zwieback",
+      "category": "Backware",
+      "type": "Carbs",
+      "kh100": 72.5
+    }
+  ,
+    {
+      "name":  "Gelée",
+      "category": "Brotaufstriche",
+      "type": "Carbs",
+      "kh100": 60
+    }
+  ,
+    {
+      "name":  "Honig",
+      "category": "Brotaufstriche",
+      "type": "Carbs",
+      "kh100": 76
+    }
+  ,
+    {
+      "name":  "Konfitüre",
+      "category": "Brotaufstriche",
+      "type": "Carbs",
+      "kh100": 58
+    }
+  ,
+    {
+      "name":  "Konfitüre für Diabetiker",
+      "category": "Brotaufstriche",
+      "type": "Carbs",
+      "kh100": 33
+    }
+  ,
+    {
+      "name":  "Nutella",
+      "category": "Brotaufstriche",
+      "type": "Carbs",
+      "kh100": 56
+    }
+  ,
+    {
+      "name":  "Schoggiaufstrich Hero",
+      "category": "Brotaufstriche",
+      "type": "Carbs",
+      "kh100": 52
+    }
+
+  ,
+    {
+      "name":  "Aktifit Erdbeer",
+      "category": "Milchprodukte",
+      "type": "Carbs",
+      "kh100": 15
+    }
+  ,
+    {
+      "name":  "Aktifit Pfirsich",
+      "category": "Milchprodukte",
+      "type": "Carbs",
+      "kh100": 7
+    }
+  ,
+    {
+      "name":  "Aromajoghurt",
+      "category": "Milchprodukte",
+      "type": "Carbs",
+      "kh100": 14
+    }
+  ,
+    {
+      "name":  "Diätjoghurt m. Süssstoff",
+      "category": "Milchprodukte",
+      "type": "Carbs",
+      "kh100": 7
+    }
+  ,
+    {
+      "name":  "Fruchtjoghurt",
+      "category": "Milchprodukte",
+      "type": "Carbs",
+      "kh100": 15.6
+    }
+  ,
+    {
+      "name":  "Früchtequark",
+      "category": "Milchprodukte",
+      "type": "Carbs",
+      "kh100": 18
+    }
+  ,
+    {
+      "name":  "Fruchtquark light",
+      "category": "Milchprodukte",
+      "type": "Carbs",
+      "kh100": 7.5
+    }
+  ,
+    {
+      "name":  "Joghurt nature",
+      "category": "Milchprodukte",
+      "type": "Carbs",
+      "kh100": 5.5
+    }
+  ,
+    {
+      "name":  "Magerquark nature",
+      "category": "Milchprodukte",
+      "type": "Carbs",
+      "kh100": 4.4
+    }
+  ,
+    {
+      "name":  "Milch",
+      "category": "Milchprodukte",
+      "type": "Carbs",
+      "kh100": 5
+    }
+  ,
+    {
+      "name":  "Orangensaft",
+      "category": "Diverse",
+      "type": "Carbs",
+      "kh100": 9
+    }
+  ,
+    {
+      "name":  "Cornflakes",
+      "category": "Diverse",
+      "type": "Carbs",
+      "kh100": 83
+    }
+
+  ,
+    {
+      "name":  "Haferflocken (15 g)",
+      "category": "Diverse",
+      "type": "Carbs",
+      "kh100": 49.5
+    }
+
+  ,
+    {
+      "name":  "Biberli",
+      "category": "Zwischenmahlzeiten",
+      "type": "Carbs",
+      "kh100": 62.5
+    }
+  ,
+    {
+      "name":  "Chips Nature",
+      "category": "Zwischenmahlzeiten",
+      "type": "Carbs",
+      "kh100": 49
+    }
+  ,
+    {
+      "name":  "Chips Paprika",
+      "category": "Zwischenmahlzeiten",
+      "type": "Carbs",
+      "kh100": 52
+    }
+  ,
+    {
+      "name":  "Darvida / Blevita",
+      "category": "Zwischenmahlzeiten",
+      "type": "Carbs",
+      "kh100": 61.5
+    }
+  ,
+    {
+      "name":  "Farmer ohne Schokolade",
+      "category": "Zwischenmahlzeiten",
+      "type": "Carbs",
+      "kh100": 55
+    }
+  ,
+    {
+      "name":  "Frappé",
+      "category": "Zwischenmahlzeiten",
+      "type": "Carbs",
+      "kh100": 11.5
+    }
+  ,
+    {
+      "name":  "Kompott",
+      "category": "Zwischenmahlzeiten",
+      "type": "Carbs",
+      "kh100": 17.5
+    }
+  ,
+    {
+      "name":  "Salzstängeli",
+      "category": "Zwischenmahlzeiten",
+      "type": "Carbs",
+      "kh100": 81
+    }
+  ,
+    {
+      "name":  "Popcorn, ungezuckert",
+      "category": "Zwischenmahlzeiten",
+      "type": "Carbs",
+      "kh100": 63
+    },
+    {
+      "name": "Vollkornbrot",
+      "kh100": 40,
+      "category": "Brot, Backwaren"
+    },
+    {
+      "name": "Gipfeli",
+      "kh100": 40,
+      "category": "Brot, Backwaren"
+    },
+    {
+      "name": "Blätterteig-Pasteteli",
+      "kh100": 40,
+      "category": "Brot, Backwaren"
+    },{
+    "name": "Ruchbrot",
+    "kh100": 50,
+    "category": "Brot, Backwaren"
+  },{
+    "name": "Halbweissbrot",
+    "kh100": 50,
+    "category": "Brot, Backwaren"
+  },{
+    "name": "Weissbrot",
+    "kh100": 50,
+    "category": "Brot, Backwaren"
+  },{
+    "name": "Semmeli",
+    "kh100": 50,
+    "category": "Brot, Backwaren"
+  },{
+    "name": "Weggli",
+    "kh100": 50,
+    "category": "Brot, Backwaren"
+  },{
+    "name": "Zopf",
+    "kh100": 50,
+    "category": "Brot, Backwaren"
+  },{
+    "name": "Darvida",
+    "kh100": 50,
+    "category": "Brot, Backwaren"
+  },{
+    "name": "Blevita",
+    "kh100": 50,
+    "category": "Brot, Backwaren"
+  },{
+    "name": "Knäckebrot",
+    "kh100": 66.66,
+    "category": "Brot, Backwaren"
+  },{
+    "name": "Zwieback",
+    "kh100": 66.66,
+    "category": "Brot, Backwaren"
+  },{
+    "name": "Reiswaffeln",
+    "kh100": 66.66,
+    "category": "Brot, Backwaren"
+  },{
+    "name": "Salzstangen",
+    "kh100": 66.66,
+    "category": "Brot, Backwaren"
+  },{
+    "name": "Crackers",
+    "kh100": 66.66,
+    "category": "Brot, Backwaren"
+  },{
+    "name": "Apérogebäck",
+    "kh100": 66.66,
+    "category": "Brot, Backwaren"
+  },{
+    "name": "Maiswaffeln",
+    "kh100": 83.33,
+    "category": "Brot, Backwaren"
+  },{
+    "name": "Grissini",
+    "kh100": 83.33,
+    "category": "Brot, Backwaren"
+  },{
+    "name": "Blevita",
+    "kh100": 50,
+    "category": "Brot, Backwaren"
+  },{
+    "name": "Blevita",
+    "kh100": 50,
+    "category": "Brot, Backwaren"
+  },
+    {
+      "name": "Blätterteig",
+      "kh100": 33.33,
+      "category": "Teig"
+    },
+    {
+      "name": "Hafeteig süss",
+      "kh100": 40,
+      "category": "Teig"
+    },
+    {
+      "name": "Kuchenteig",
+      "kh100": 40,
+      "category": "Teig"
+    },
+    {
+      "name": "Pizzateig",
+      "kh100": 40,
+      "category": "Teig"
+    },
+    {
+      "name": "Mürbeteig süss",
+      "kh100": 50,
+      "category": "Teig"
+    }
+  ,
+    {
+      "name": "Kartoffelstock",
+      "kh100": 12.5,
+      "category": "Kartoffeln, Kastanien, Kochbananen"
+    },
+    {
+      "name": "Kartoffeln mit oder ohne Schale",
+      "nameEn": "Potatoes w/o skin",
+      "kh100": 16.67,
+      "category": "Kartoffeln, Kastanien, Kochbananen"
+    }
+  ,
+  {
+    "name": "Choco Petit Beurre - Wernli",
+    "nameEn": "Biscuit Choco Petit Beurre",
+    "kh100": 48,
+    "category": "",
+    "unitKh": 3.072
+  }
+,
+  {
+    "name": "Curry Sauce - Thomy",
+    "nameEn": "Curry Sauce - Thomy",
+    "kh100": 84,
+    "category": ""
+  }
+,
+  {
+    "name": "Reis - Coop",
+    "nameEn": "Rice",
+    "kh100": 28.3,
+    "category": ""
+  }
+,
+  {
+    "name": "Risotto",
+    "nameEn": "Risotto",
+    "kh100": 16.67,
+    "category": ""
+  }
+,
+  {
+    "name": "Ketchup - ?",
+    "nameEn": "Ketchup",
+    "kh100": 12,
+    "category": ""
+  }
+,
+  {
+    "name": "Pavesi",
+    "nameEn": "Pavesi",
+    "kh100": 67,
+    "category": ""
+  }
+,
+  {
+    "name": "Cenovis",
+    "nameEn": "Cenovis",
+    "kh100": 20,
+    "category": ""
+  }
+,
+  {
+    "name": "Smarties",
+    "nameEn": "Smarties",
+    "kh100": 69.5,
+    "category": ""
+  }
+,
+  {
+    "name": "Ovomaltine",
+    "nameEn": "Ovomaltine",
+    "kh100": 74.2,
+    "category": ""
+  }
+,{
+  "name": "Honig Coop",
+  "nameEn": "Honey",
+  "kh100": 83.33,
+  "category": ""
+},
+  {
+    "name": "Banane",
+    "nameEn": "Banana",
+    "kh100": 20,
+    "category": ""
+  }
+,
+  {
+    "name": "Vollkorn Toast - Coop",
+    "nameEn": "",
+    "kh100": 37,
+    "category": ""
+  }
+,
+  {
+    "name": "Confiture Coop",
+    "nameEn": "Jam Coop",
+    "kh100": 59,
+    "category": ""
+  }
+,
+  {
+    "name": "Gummi Bärli",
+    "nameEn": "Gummi Baer",
+    "kh100": 77,
+    "category": "",
+    "unitKh": 1.54
+  }
+,
+    {
+      "name": "Rösti",
+      "kh100": 18.18,
+      "category": "Kartoffeln, Kastanien, Kochbananen"
+    }
+  ,
+    {
+      "name": "Kroketten",
+      "kh100": 18.18,
+      "category": "Kartoffeln, Kastanien, Kochbananen"
+    }
+  ,
+    {
+      "name": "Süsskartoffel (Batate)",
+      "kh100": 25,
+      "category": "Kartoffeln, Kastanien, Kochbananen"
+    }
+  ,
+    {
+      "name": "Kochbanane",
+      "kh100": 28.57,
+      "category": "Kartoffeln, Kastanien, Kochbananen"
+    }
+  ,
+    {
+      "name": "Maniok",
+      "kh100": 28.57,
+      "category": "Kartoffeln, Kastanien, Kochbananen"
+    }
+  ,
+    {
+      "name": "Pommes Frites",
+      "kh100": 33.33,
+      "category": "Kartoffeln, Kastanien, Kochbananen"
+    }
+  ,
+    {
+      "name": "Ofenfrites (verzehrsfertig)",
+      "kh100": 33.33,
+      "category": "Kartoffeln, Kastanien, Kochbananen"
+    }
+  ,
+    {
+      "name": "Kastanien / Marroni (30g mit Schale)",
+      "kh100": 40,
+      "category": "Kartoffeln, Kastanien, Kochbananen"
+    }
+  ,
+    {
+      "name": "Pommes Chips",
+      "kh100": 50,
+      "category": "Kartoffeln, Kastanien, Kochbananen"
+    }
+  ,
+    {
+      "name": "Banane (70g mit Shale)",
+      "kh100": 20,
+      "category": "Obst"
+    }
+  ,
+    {
+      "name": "Litschi (100g mit Kern und Shale)",
+      "kh100": 20,
+      "category": "Obst"
+    },
+    {
+      "name": "Feige frish",
+      "kh100": 14.29,
+      "category": "Obst"
+    },
+    {
+      "name": "Kaki",
+      "kh100": 14.29,
+      "category": "Obst"
+    },
+    {
+      "name": "Kirschen",
+      "kh100": 14.29,
+      "category": "Obst"
+    },
+    {
+      "name": "Kumquat",
+      "kh100": 14.29,
+      "category": "Obst"
+    },
+    {
+      "name": "Mango",
+      "kh100": 14.29,
+      "category": "Obst"
+    },
+    {
+      "name": "Rambutan (150 mit Kern und Shale)",
+      "kh100": 14.29,
+      "category": "Obst"
+    },
+    {
+      "name": "Trauben",
+      "kh100": 14.29,
+      "category": "Obst"
+    },
+    {
+      "name": "Ananas (150g mit Schale)",
+      "kh100": 12.5,
+      "category": "Obst"
+    },
+    {
+      "name": "Birne",
+      "kh100": 12.5,
+      "category": "Obst"
+    },
+    {
+      "name": "Heidelbeeren",
+      "kh100": 12.5,
+      "category": "Obst"
+    },
+    {
+      "name": "Mirabellen",
+      "kh100": 12.5,
+      "category": "Obst"
+    },
+    {
+      "name": "Reineclauden",
+      "kh100": 12.5,
+      "category": "Obst"
+    }
+    ,
+    {
+      "name": "Apfel",
+      "kh100": 10,
+      "category": "Obst"
+    },
+    {
+      "name": "Aprikose",
+      "kh100": 10,
+      "category": "Obst"
+    },
+    {
+      "name": "Johannisbeeren schwarz",
+      "kh100": 10,
+      "category": "Obst"
+    },
+    {
+      "name": "Kiwi",
+      "kh100": 10,
+      "category": "Obst"
+    },
+    {
+      "name": "Mandarine (150g mit Schale)",
+      "kh100": 10,
+      "category": "Obst"
+    },
+    {
+      "name": "Klementine (150g mit Schale)",
+      "kh100": 10,
+      "category": "Obst"
+    },
+    {
+      "name": "Melone (Honig-, Cavaillon-, Netz-) (150g mit Schale)",
+      "kh100": 10,
+      "category": "Obst"
+    },
+    {
+      "name": "Nektarine",
+      "kh100": 10,
+      "category": "Obst"
+    },
+    {
+      "name": "Orange (150g mit Schale)",
+      "kh100": 10,
+      "category": "Obst"
+    },
+    {
+      "name": "Passionfrucht (200g mit Schale)",
+      "kh100": 10,
+      "category": "Obst"
+    },
+    {
+      "name": "Pfirsich",
+      "kh100": 10,
+      "category": "Obst"
+    },
+    {
+      "name": "Pflaumen",
+      "kh100": 10,
+      "category": "Obst"
+    },
+    {
+      "name": "Pomelo",
+      "kh100": 10,
+      "category": "Obst"
+    },
+    {
+      "name": "Zwetschgen",
+      "kh100": 10,
+      "category": "Obst"
+    },
+    {
+      "name": "Broombeeren",
+      "kh100": 6.67,
+      "category": "Obst"
+    },
+    {
+      "name": "Erdbeeren",
+      "kh100": 6.67,
+      "category": "Obst"
+    },
+    {
+      "name": "Grapefruit (250g mit Schale)",
+      "kh100": 6.67,
+      "category": "Obst"
+    },
+    {
+      "name": "Guave",
+      "kh100": 6.67,
+      "category": "Obst"
+    },
+    {
+      "name": "Himbeeren",
+      "kh100": 6.67,
+      "category": "Obst"
+    },
+    {
+      "name": "Kaktusfeige (250g mit Schale)",
+      "kh100": 6.67,
+      "category": "Obst"
+    },
+    {
+      "name": "Papaya (200g mit Schale)",
+      "kh100": 6.67,
+      "category": "Obst"
+    },
+    {
+      "name": "Preiselbeeren",
+      "kh100": 6.67,
+      "category": "Obst"
+    },
+    {
+      "name": "Quitte (200 mit Kerngehäuse und Schale)",
+      "kh100": 6.67,
+      "category": "Obst"
+    },
+    {
+      "name": "Stachelbeeren",
+      "kh100": 6.67,
+      "category": "Obst"
+    },
+    {
+      "name": "Wassermelone (360g mit Schale)",
+      "kh100": 6.67,
+      "category": "Obst"
+    },
+    {
+      "name": "Johannisbeeren rot",
+      "kh100": 5,
+      "category": "Obst"
+    },
+    {
+      "name": "Karambola (Sternfrucht)",
+      "kh100": 0,
+      "category": "Obst"
+    },
+    {
+      "name": "Limette",
+      "kh100": 0,
+      "category": "Obst"
+    },
+    {
+      "name": "Rhabarber",
+      "kh100": 0,
+      "category": "Obst"
+    },
+    {
+      "name": "Zitrone",
+      "kh100": 0,
+      "category": "Obst"
+    },
+    {
+      "name": "Bell Wurstli",
+      "kh100": 0.6,
+      "unitKh": 0.15
+    },
+    {
+      "name": "Vollmilch Naturaplan 3.9% Milchfett",
+      "kh100": 4.9
+    },
+    {
+      "name": "Ketchup Heinz 50%",
+      "kh100": 12
+    }
+  ,
+    {
+      "name": "Ketchup Heinz ohne Zusatz von Zucker",
+      "kh100": 5.4
+    },
+    { "name":  "Mövenpick French Dressing",
+      "kh100":  1.7
+    },
+    {
+      "name": "Petit Beurre Kambly",
+      "kh100": 72,
+      "unitKh": 5.76
+    },
+  {
+    "name": "Mix-in smarties yoghurt vanille",
+    "kh100": 17.3,
+    "unitKh": 20.7
+  },
+  {
+    "name": "Poulet-Nuggets Premium Bell, Chicken",
+    "kh100": 12
+  },
+
+  {
+    "name": "Chicken-Nuggets Animal, Coop",
+    "kh100": 16
+  },
+  {
+    "name": "Bibi choc, Candy",
+    "kh100": 83,
+    "unitKH": 1.90
+  },
+  {
+    "name": "Cailler milch chocolate",
+    "kh100": 51
+  },
+  {
+    "name": "Apfel",
+    "kh100": 10
+  },
+  {
+    "name": "Cenovis liquid",
+    "kh100": 4.6
+  }
+,
+  {
+    "name": "Cenovis paste",
+    "kh100": 20
+  },
+  {
+    "name": "Gummi bärli (Veganz)",
+    "kh100": 77,
+    "unitKH": 1.54
+  },
+  {
+    "name": "Kartoffel - Potatoes",
+    "kh100": 16.6
+  }
+  ,
+  {
+    "name": "Gürken - Cucumber",
+    "kh100": 2
+  },
+  {
+    "name": "Reis - Rice",
+    "kh100": 28.3
+  },
+  {
+    "name": "Curry sauce - Thomy?",
+    "kh100": 8.4
+  },
+  {
+    "name": "Biscuit animal - Tiere",
+    "kh100": 48,
+    "unitKh": 3.07
+  },
+  {
+    "name": "JaMaDu Chicken Nuggets",
+    "kh100": 16,
+    "unitKh": 6.4,
+    "fibers100": 1
+  },
+  {
+    "name": "Haribo Goldbären",
+    "kh100": 77,
+    "unitKh": 1.771
+  }
+,
+  {
+    "name": "Nestlé Petit Nesquik Chocolate, 60g ",
+    "kh100": 27.8,
+    "unitKh": 16.68
+  }
+,
+  {
+    "name": "Pasta - Spaghetti ",
+    "kh100": 25
+  },
+  {
+    "name": "Cordon Bleau",
+    "kh100": 10
+  }
+]

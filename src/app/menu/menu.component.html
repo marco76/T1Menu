@@ -1,0 +1,55 @@
+<clr-combobox-container>
+  <label>Food selection</label>
+  <clr-combobox [(ngModel)]="selectedProduct"
+                required style="font-size: 2em;">
+    <clr-options #clrOptions>
+      <clr-option *clrOptionItems="let product of products; field:'name'" [clrValue]="product">
+        <div>{{product.name}}</div>
+        <div style><span style="font-style: italic"> Carbs/100g : {{product.kh100}}</span>
+          <span>Unit: {{product.unitG}} gr {{product.unitKh}} C</span>
+        </div>
+      </clr-option>
+    </clr-options>
+  </clr-combobox>
+  <clr-control-helper>Carbs in 100g</clr-control-helper>
+  <clr-control-error>There was an error</clr-control-error>
+</clr-combobox-container>
+
+
+
+<div *ngIf="selectedProduct">
+  {{selectedProduct.name}} {{selectedProduct.kh100}} {{selectedProduct.unitG}}
+  <form clrForm>
+  <div style="display: inline-flex">
+
+    <input clrInput placeholder="Grams" name="grams" [(ngModel)]="grams" (ngModelChange)="calculateCarbsForFood()" />
+
+    <div><h1>{{this.selectedProductCarbs}}</h1> <span style="font-size: x-small">Carbs</span></div>
+  </div>
+    <button class="btn btn-primary" (click)="onAddToMenu()">Add</button>
+  </form>
+
+
+</div>
+
+<table class="table table-noborder">
+  <caption>
+    Menu
+  </caption>
+  <thead>
+  <tr>
+    <th class="left">Name</th>
+    <th>Grams</th>
+    <th>Carbs</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr *ngFor="let item of currentMenu.menuItemList">
+    <td class="left">{{item.foodName}}</td>
+    <td>{{item.foodQuantity}}</td>
+    <td>{{item.foodKh}}</td>
+  </tr>
+  </tbody>
+</table>
+
+
