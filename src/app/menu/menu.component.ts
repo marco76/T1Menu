@@ -60,4 +60,14 @@ export class MenuComponent implements OnInit {
     this.currentMenu.totalCarbs = Math.round(totalCarbs * 100 ) / 100;
   }
 
+  onRemove(item: MenuFoodItem): void {
+    const index = this.currentMenu.menuItemList.findIndex(
+      current => current.foodName === item.foodName && current.foodKh === current.foodKh
+    );
+    if (index > -1  ) {
+      this.currentMenu.menuItemList.splice(index, 1);
+  }
+
+
+  }
 }

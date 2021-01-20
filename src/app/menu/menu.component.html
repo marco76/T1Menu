@@ -34,13 +34,14 @@
 
 <table class="table table-noborder">
   <caption>
-    Menu
+    Menu - total carbs {{currentMenu.totalCarbs}}
   </caption>
   <thead>
   <tr>
     <th class="left">Name</th>
     <th>Grams</th>
     <th>Carbs</th>
+    <th></th>
   </tr>
   </thead>
   <tbody>
@@ -48,6 +49,7 @@
     <td class="left">{{item.foodName}}</td>
     <td>{{item.foodQuantity}}</td>
     <td>{{item.foodKh}}</td>
+    <td><clr-icon shape="trash" (click)="onRemove(item)"></clr-icon></td>
   </tr>
   </tbody>
 </table>
